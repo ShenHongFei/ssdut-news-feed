@@ -2,7 +2,7 @@
 
 ### Why
 
-以后让各种软院新闻自动通知我
+以后，让各种软院公告、新闻自动通知我。
 
 
 
@@ -28,7 +28,7 @@
 
 2.  下载并导入已经制作好的RSS源（OPML格式）
 
-    2.1 右键另存为 [opml.xml](opml.xml)
+    2.1 右键另存为 [opml.xml](https://github.com/ShenHongFei/ssdut-news-feed/raw/master/opml.xml)
 
     2.2 在 Inoreader 中打开偏好设置 导入 opml.xml![import](preview/import.png)
 
@@ -58,9 +58,37 @@ RSS 阅读器每隔一段时间拉取RSS Feed内容并展示
 
 ### GitHub
 
-[https://github.com/ShenHongFei/xuetangx-aria2-download-userscript](https://github.com/ShenHongFei/xuetangx-aria2-download-userscript)
+[https://github.com/ShenHongFei/ssdut-news-feed/](https://github.com/ShenHongFei/ssdut-news-feed/)
 
 欢迎贡献新的新闻源，欢迎 Star
+
+
+
+### RSS Details
+
+[http://www.feed43.com/zytg.xml](http://www.feed43.com/zytg.xml)
+
+大工本部-教务重要通告
+
+[http://www.feed43.com/xsdt.xml](http://www.feed43.com/xsdt.xml) 
+
+大工软院-学术动态
+
+[http://www.feed43.com/xytz.xml](http://www.feed43.com/xytz.xml) 
+
+大工软院-学院通知
+
+[http://www.feed43.com/bkstz.xml](http://www.feed43.com/bkstz.xml)
+
+大工软院-本科生通知
+
+[http://www.feed43.com/jdxw.xml](http://www.feed43.com/jdxw.xml) 
+
+大工软院-焦点新闻
+
+[http://www.feed43.com/xueyuanxinwen.xml](http://www.feed43.com/xueyuanxinwen.xml)
+
+大工软院-综合新闻
 
 
 
