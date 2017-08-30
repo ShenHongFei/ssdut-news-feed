@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<opml version="1.0">
+  <head>
+    <title>大工新闻</title>
+    <ownerName>沈鸿飞</ownerName>
+  </head>
+<body>
+<outline text="大工新闻">
+<outline text="大工本部-教务重要通告" xmlUrl="http://feed43.com/zytg.xml" />
+<outline text="大工软院-学术动态" xmlUrl="http://feed43.com/xsdt.xml" />
+<outline text="大工软院-学院通知" xmlUrl="http://feed43.com/xytz.xml" />
+<outline text="大工软院-本科生通知" xmlUrl="http://feed43.com/bkstz.xml" />
+<outline text="大工软院-焦点新闻" xmlUrl="http://feed43.com/jdxw.xml" />
+<outline text="大工软院-综合新闻" xmlUrl="http://feed43.com/xueyuanxinwen.xml" />
+
+</outline>
+</body>
+</opml>
